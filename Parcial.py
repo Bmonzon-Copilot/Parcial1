@@ -51,11 +51,15 @@ for codigo, datos in empleado.items():
     promedio = suma / contador
     print(f"Promedio de desempeño: {promedio:.2f}")
 
-    print("Contacto: ")
+    print("contacto: ")
     for clave, valor in datos['contacto'].items():
         print(f"  {clave.capitalize()}")
 
-              
+
+
+
+
+
 
 
 
