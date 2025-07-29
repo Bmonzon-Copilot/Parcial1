@@ -16,8 +16,10 @@ desempenio[empleado] = {
     "puntualidad": puntualidad,
     "equipo":equipo,
     "productividad":productividad,
-
-
+}
+contacto[empleado]={
+    "telefono":telefono,
+    "correo":correo
 }
 
 
